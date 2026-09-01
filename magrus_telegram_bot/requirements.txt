@@ -1,4 +1,1 @@
-aiogram==3.31.0
-gspread>=6.0,<7.0
-google-auth>=2.0,<3.0
-python-dotenv>=1.0,<2.0
+-r requirements-lock.txt
